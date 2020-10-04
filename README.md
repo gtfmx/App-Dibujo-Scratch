@@ -29,15 +29,22 @@ En este tutorial te vamos a enseñar cómo pintar y dibujar con el ratón en Scr
 
 ![Página inicio Scratch](assets/inicio.png)
 
+
+
 2.	Y daremos clic en el botón “Start creating” o “Empezar a crear”:
 
-Inglés:
->-------
+Así se ve en inglés:
+
+
 ![Start creating](assets/empezar-a-crear-en.png)
 
-Español: 
->-------
+
+
+Así se ve en español: 
+
 ![Empezar a crear](assets/empezar-a-crear-es.png)
+
+
 
 Ahí se abrirá nuestro espacio de trabajo. Donde también veremos diversas categorías de instrucciones para codificar.
 
