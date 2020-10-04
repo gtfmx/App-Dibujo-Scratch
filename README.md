@@ -1,3 +1,4 @@
+
 # Crea tu propia aplicación de dibujo con Scratch
 
 ![Giti Ameyalli](assets/giti_ameyalli.png)
@@ -30,10 +31,12 @@ En este tutorial te vamos a enseñar cómo pintar y dibujar con el ratón en Scr
 
 2.	Y daremos clic en el botón “Start creating” o “Empezar a crear”:
 
-Inglés:
+>Inglés:
+-------
 ![Start creating](assets/empezar-a-crear-en.png)
 
-Español:
+>Español: 
+-------
 ![Empezar a crear](assets/empezar-a-crear-es.png)
 
 Ahí se abrirá nuestro espacio de trabajo. Donde también veremos diversas categorías de instrucciones para codificar.
@@ -61,6 +64,8 @@ Verás que ahora en tu espacio de trabajo tienes los controles relacionados a L�
 
 
 ### Seleccionemos el objeto "Lápiz"
+
+
 
 
 ## Enlaces
