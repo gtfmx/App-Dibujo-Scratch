@@ -25,6 +25,6 @@ En este tutorial te vamos a enseñar cómo pintar y dibujar con el ratón en Scr
 
 ## Enlaces
 
-Si aún quieres aprender más, visita la [página oficial de Scratch](https://gotour-es.appspot.com/#1) para ver más proyectos.
+Si aún quieres aprender más, visita la [página oficial de Scratch](https://scratch.mit.edu/) para ver más proyectos.
 
 _Derechos reservados Giti Ameyalli [Girl Tech Fest MX](https://girltechfestmx.org/)_.
