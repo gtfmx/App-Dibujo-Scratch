@@ -23,6 +23,39 @@ En este tutorial te vamos a enseñar cómo pintar y dibujar con el ratón en Scr
 
 ![Lápiz](assets/lapiz.png)
 
+1.	Para iniciar, deberemos crear nuestro proyecto, para ello iremos a la página de inicio de Scratch: https://scratch.mit.edu/
+
+![Página inicio Scratch](assets/inicio.png)
+
+2.	Y daremos clic en el botón “Start creating” o “Empezar a crear”:
+
+Inglés:
+![Start creating](assets/empezar-a-crear-en.png)
+
+Español:
+![Empezar a crear](assets/empezar-a-crear-es.png)
+
+Ahí se abrirá nuestro espacio de trabajo. Donde también veremos diversas categorías de instrucciones para codificar.
+
+Algo sencillo pero que nos puede dar muchas ideas para continuar programando, sobre todo para realizar proyectos artísticos y creativos.
+
+Puede ser que tu espacio se vea en inglés, puedes cambiar el idioma dando clic en el globo: ![globo](assets/idiomas.png) y seleccionando de la lista “Español latinoamericano”.
+
+Tu espacio de trabajo ahora se verá en español :wink:.
+
+3.	Agregaremos los controles de Lápiz. Para ello da clic en el ícono ![Agregar extensión](assets/extension-icono.png) (Agregar extensión), que se encuentra en la parte inferior izquierda de tu espacio de trabajo.
+
+Se abrirá otra pantalla con la lista de extensiones disponibles, seleccionaremos la extensión llamada "Lápiz".
+
+![Extensión lápiz](assets/extensiones.png)
+
+Verás que ahora en tu espacio de trabajo tienes los controles relacionados a Lápiz:
+
+![Extensión lápiz](assets/controles-lapiz.png)
+
+
+
+
 ## Enlaces
 
 Si aún quieres aprender más, visita la [página oficial de Scratch](https://scratch.mit.edu/) para ver más proyectos.
