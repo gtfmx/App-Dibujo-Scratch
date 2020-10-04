@@ -92,6 +92,43 @@ Damos clic en la imagen del lápiz y veremos que ahora, en lugar del gato, tenem
 **Ahora sí estamos listos, ¡a programar nuestra aplicación de dibujo! :wink: :smile:.**
 
 
+## Construyendo nuestro programa
+
+5.	En la sección de controles (del lado izquierdo en nuestro espacio de trabajo) seleccionaremos la categoría Eventos (color amarillo). 
+
+![Controles Eventos](assets/controles-eventos.png)
+
+Y ahí arrastraremos al centro de nuestro espacio de trabajo el elemento “Al presionar” ![Al presionar](assets/al-presionar.png)
+
+Por lo que nuestro espacio de trabajo ahora se ve así:
+
+![Espacio de trabajo](assets/overview1.png)
+
+6.	Ahora, seleccionaremos la categoría Control, y así como hicimos con el elemento anterior, arrastraremos el elemento “Por siempre” a nuestro espacio de trabajo, debajo del elemento “al empezar” como si estuviéramos armando un rompecabezas:
+
+![Espacio de trabajo](assets/overview2.png)
+
+7.	Sigue los pasos anteriores, agregaremos ahora un par de elementos más para que tu espacio de trabajo quede así:
+
+![Espacio de trabajo](assets/overview3.png)
+
+El elemento “ir a” tiene opciones, selecciona “puntero del ratón”.
+
+Esto hará que el lápiz en la sección de prueba (esquina superior derecha) se mueva conforme se mueve el puntero del ratón. 
+
+Para probarlo, da clic en la bandera verde ![Bandera](assets/bandera.png).
+
+Para detener la prueba y seguir programando, da clic en el octágono rojo ![Stop](assets/stop.png).
+
+8.	Ahora, como hiciste en los pasos anteriores, agrega los siguientes elementos a tu espacio de trabajo:
+
+| 1 | 2 |  3 |
+| --------- | --------- | --------- |
+| al presionar | Categoría Eventos (amarilla) | ![Cat amarilla](assets/cat-amarilla.png)|
+| fijar tamaño a 50% | Categoría Apariencia (morada) | ![Cat morada](assets/cat-morada.png)|
+| lápiz arriba | Categoría Lápiz | ![Cat lapiz](assets/cat-lapiz.png)|
+
+
 
 ## Enlaces
 
