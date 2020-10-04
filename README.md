@@ -157,6 +157,42 @@ Ahora, tu espacio de trabajo quedará así:
 ![Espacio de trabajo](assets/overview4.png)
 
 
+**¡Listo!** :smile:
+
+## Probemos nuestro programa
+
+9.	Para probar nuestro programa, da clic en la bandera verde ![Bandera](assets/bandera.png).
+
+Verás que los bloques (elementos) tienen un contorno amarillo, esto significa que estás ejecutando tu programa. 
+
+
+![Espacio de trabajo](assets/overview5.png)
+
+
+¡Ahora dibuja! 
+
+10.	Coloca el ratón en la sección de tu espacio de trabajo donde está el lápiz, mueve el ratón y verás que se mueve el lápiz. 
+
+Da clic y deja presionado el botón del ratón y ve que pasa. Suelta el botón del ratón. 
+
+¿Has visto lo que tu programa hace?
+
+También, puedes hacer esa sección de tu espacio de trabajo más grande para que veas tus trazos. 
+
+11.	Da clic en el ícono ![Maximiza](assets/max-icono.png) para hacer la sección más grande.
+
+![Espacio de trabajo](assets/overview6-max.png)
+
+
+Da clic en el ícono ![Minimiza](assets/min-icono.png) para regresar la sección a su tamaño original y regresar al espacio de trabajo.
+
+
+12.	Para detener la prueba y seguir programando, da clic en el octágono rojo ![Stop](assets/stop.png).
+
+Y es así como queda nuestro código para nuestra aplicación que hemos creado para dibujar:
+
+![Espacio de trabajo](assets/overview7.png)
+
 ## Enlaces
 
 Si aún quieres aprender más, visita la [página oficial de Scratch](https://scratch.mit.edu/) para ver más proyectos.
