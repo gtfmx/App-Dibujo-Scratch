@@ -176,7 +176,7 @@ Verás que los bloques (elementos) tienen un contorno amarillo, esto significa q
 ![Espacio de trabajo](assets/overview5.png)
 
 
-¡Ahora dibuja! 
+**¡Ahora, a dibujar!** :grimacing: 
 
 10.	Coloca el ratón en la sección de tu espacio de trabajo donde está el lápiz, mueve el ratón y verás que se mueve el lápiz. 
 
