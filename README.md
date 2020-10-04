@@ -214,6 +214,7 @@ Como puedes ver, puedes hacer muchas cosas programando :wink:
 ## Enlaces
 
 Para crear una cuenta de Scratch, sigue esta [pequeña guía](crea-tu-cuenta.md)
+
 Si aún quieres aprender más, visita la [página oficial de Scratch](https://scratch.mit.edu/) para ver más proyectos.
 
 _Derechos reservados Giti Ameyalli [Girl Tech Fest MX](https://girltechfestmx.org/)_.
