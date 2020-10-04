@@ -1,7 +1,7 @@
 
 # Crea tu propia aplicación de dibujo con Scratch
 
-![Giti Ameyalli](assets/giti_ameyalli.png)
+![Imagen principal](assets/giti_ameyalli.png)
 
 ## Descripción del taller
 
@@ -157,7 +157,7 @@ Ahora, tu espacio de trabajo quedará así:
 ![Espacio de trabajo](assets/overview4.png)
 
 
-**¡Listo!** :smile:
+**¡Listo!** :sunglasses:
 
 ## Probemos nuestro programa
 
@@ -195,20 +195,26 @@ Y es así como queda nuestro código para nuestra aplicación que hemos creado p
 
 ## Puedes agregar otras funcionalidades a tu aplicación
 
-¿Qué tal quedaría tu app si agregamos efectos de sonido cuando el lápiz esté dibujando o agrega cambios de color a la línea que pinta tu lápiz?
+¿Qué tal quedaría tu app si agregamos efectos de sonido cuando el lápiz esté dibujando? o ¿qué tal si agregamos cambios de color a la línea que pinta tu lápiz?
+
+¡Inténtalo!
 
 ![Espacio de trabajo](assets/overview8.png)
 
 ¡Agrega los elementos necesarios a tu programa y pruébalos!
-Como puedes ver, puedes hacer muchas cosas programando. 
 
-**Esperamos te hayas divertido.** :smile:
+Como puedes ver, puedes hacer muchas cosas programando :wink:
+
+**Esperamos te hayas divertido.** :relaxed:
 
 **¡GRACIAS!**
 
+![Giti Ameyalli](assets/giti_ameyalli.png)
 
 ## Enlaces
 
 Si aún quieres aprender más, visita la [página oficial de Scratch](https://scratch.mit.edu/) para ver más proyectos.
 
 _Derechos reservados Giti Ameyalli [Girl Tech Fest MX](https://girltechfestmx.org/)_.
+
+
