@@ -122,13 +122,14 @@ Para detener la prueba y seguir programando, da clic en el octágono rojo ![Stop
 
 8.	Ahora, como hiciste en los pasos anteriores, agrega los siguientes elementos a tu espacio de trabajo:
 
-| 1 | 2 |  3 |
+| Control | Categoría |  Imagen |
 | --------- | --------- | --------- |
 | al presionar | Categoría Eventos (amarilla) | ![Cat amarilla](assets/cat-amarilla.png)|
 | fijar tamaño a 50% | Categoría Apariencia (morada) | ![Cat morada](assets/cat-morada.png)|
 | lápiz arriba | Categoría Lápiz | ![Cat lapiz](assets/cat-lapiz.png)|
-
-
+| borrar todo | Categoría Lápiz | ![Cat lapiz](assets/cat-lapiz-borrar.png)|
+| esperar 1 segundos | Categoría Control (naranja) | ![Cat naranja](assets/cat-naranja-espera.png)|
+| por siempre* | Categoría Control (naranja) | ![Cat naranja](assets/cat-naranja-siempre.png)|
 
 ## Enlaces
 
