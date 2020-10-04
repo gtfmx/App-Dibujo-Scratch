@@ -25,13 +25,13 @@ En este tutorial te vamos a enseñar cómo pintar y dibujar con el ratón en Scr
 ![Lápiz](assets/lapiz.png)
 
 
-1.	Para iniciar, deberemos crear nuestro proyecto, para ello iremos a la [página de inicio de Scratch](https://scratch.mit.edu/)
+1.	Para iniciar deberemos crear nuestro proyecto. Para ello iremos a la [página de inicio de Scratch](https://scratch.mit.edu/)
 
 ![Página inicio Scratch](assets/inicio.png)
 
 
 
-2.	Y daremos clic en el botón “Start creating” o “Empezar a crear”:
+2.	Daremos clic en el botón “Start creating” o “Empezar a crear”:
 
 Así se ve en inglés:
 
