@@ -65,7 +65,29 @@ Verás que ahora en tu espacio de trabajo tienes los controles relacionados a L�
 
 ### Seleccionemos el objeto "Lápiz"
 
+4.	Del lado derecho de nuestro espacio de trabajo veremos al famoso gato de Scratch. Vamos a cambiar al gato por un lápiz, que irá acorde a nuestra aplicación (un lápiz pinta, el gato no jeje).
 
+![Objeto Gato](assets/obj-gato.png)
+
+Damos clic en el bote de basura, que sale sobre el gato:
+
+![Objeto Gato Bote](assets/obj-gato-zoom.png)
+
+Ahora, daremos clic en el siguiente ícono para generar un nuevo objeto (que es el que se verá en nuestra aplicación, o sea un lápiz).
+
+![Elegir objeto](assets/elegir-obj.png)
+
+Aquí nos salen muchas opciones como puedes ver:
+
+![Elegir objeto](assets/buscar-imagen.png)
+
+Buscaremos un lápiz, introducimos la palabra “pencil” en el campo “Buscar” (donde está la lupa, en el lado superior izquierdo de esta pantalla).
+
+![Elegir objeto pencil](assets/obj-pencil.png)
+
+Damos clic en la imagen del lápiz y veremos que ahora, en lugar del gato, tenemos un lápiz en nuestro espacio de trabajo:
+
+![Objeto pencil](assets/obj-pencil-res.png)
 
 
 ## Enlaces
