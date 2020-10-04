@@ -129,7 +129,33 @@ Para detener la prueba y seguir programando, da clic en el octágono rojo ![Stop
 | lápiz arriba | Categoría Lápiz | ![Cat lapiz](assets/cat-lapiz.png)|
 | borrar todo | Categoría Lápiz | ![Cat lapiz](assets/cat-lapiz-borrar.png)|
 | esperar 1 segundos | Categoría Control (naranja) | ![Cat naranja](assets/cat-naranja-espera.png)|
-| por siempre* | Categoría Control (naranja) | ![Cat naranja](assets/cat-naranja-siempre.png)|
+| por siempre(^) | Categoría Control (naranja) | ![Cat naranja](assets/cat-naranja-siempre.png)|
+
+>(^)Dentro del elemento “por siempre” agrega los siguientes elementos: 
+
+| Control | Categoría |  Imagen |
+| --------- | --------- | --------- |
+| esperar hasta que(^^) | Categoría Control (naranja) | ![Cat naranja](assets/cat-naranja-hastaque.png)|
+| lápiz abajo | Categoría Lápiz | ![Cat lapiz](assets/cat-lapiz-abajo.png)|
+| esperar hasta que(^^) | Categoría Control (naranja) | ![Cat naranja](assets/cat-naranja-hastaque.png)|
+| lápiz arriba | Categoría Lápiz | ![Cat lapiz](assets/cat-lapiz.png)|
+
+>(^^) Para este elemento, agregarás en el espacio en blanco los siguientes elementos:
+
+| Control | Categoría |  Imagen |
+| --------- | --------- | --------- |
+| ¿ratón presionado? | Categoría Sensores | ![Ratón presionado](assets/raton-presionado.png)|
+| no(^^^) | Categoría Operadores (verde) | ![Cat operadores](assets/cat-operadores-no.png)|
+
+
+>(^^^) Y dentro de este elemento agregarás: ¿ratón presionado? (Categoría Sensores) 
+
+![Ratón presionado](assets/raton-presionado.png)
+
+Ahora, tu espacio de trabajo quedará así:
+
+![Espacio de trabajo](assets/overview4.png)
+
 
 ## Enlaces
 
