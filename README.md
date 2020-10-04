@@ -1,7 +1,7 @@
 
 # Crea tu propia aplicación de dibujo con Scratch
 
-![Imagen principal](assets/giti_ameyalli.png)
+![Imagen principal](assets/app-dibujo-con-scratch.png)
 
 ## Descripción del taller
 
