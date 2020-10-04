@@ -89,6 +89,9 @@ Damos clic en la imagen del lápiz y veremos que ahora, en lugar del gato, tenem
 
 ![Objeto pencil](assets/obj-pencil-res.png)
 
+**Ahora sí estamos listos, ¡a programar nuestra aplicación de dibujo! :wink: :smile:.**
+
+
 
 ## Enlaces
 
